@@ -5,8 +5,8 @@ Created an interactive Excel dashboard for the Employee Details Dataset.
 ---
 
 ##  PROJECT DESCRIPTION
-1. To clean and standardize raw employee data for reliable reporting.
-2. To remove duplicates, fix missing values, and format fields properly.
+- To clean and standardize raw employee data for reliable reporting.
+- To remove duplicates, fix missing values, and format fields properly.
 
 ---
 
@@ -34,11 +34,11 @@ The dataset contains employee information used to analyze salary details and per
 ---
 
 ##  KEY FEATURES
-1. Data Cleaning & Preparation  
-2. Handling Inconsistent Data  
-3. Descriptive Statistics  
-4. Pivot Table Summarization  
-5. Visualization and Dashboard Building  
+- Data Cleaning & Preparation  
+- Handling Inconsistent Data  
+- Descriptive Statistics  
+- Pivot Table Summarization  
+- Visualization and Dashboard Building  
 
 ---
 
@@ -76,4 +76,3 @@ The dataset contains employee information used to analyze salary details and per
 
 This analysis helps the organization make data-driven decisions through Descriptive, Diagnostic, Predictive, and Prescriptive analytics.
 
-This analysis helps the organization make data-driven decisions through Descriptive, Diagnostic, Predictive, and Prescriptive analytics.
