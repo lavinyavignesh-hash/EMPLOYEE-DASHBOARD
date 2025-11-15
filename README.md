@@ -1,8 +1,8 @@
 # EMPLOYEE EXCEL DASHBOARD
     Created excel interactive dashboard for the Employee details dataset.
 PROJECT DESCRIPTION:
-   - To clean and standardize raw employee data for reliable reporting.
-   - To remove duplicates, fix missing values and format fields properly.
+   1. To clean and standardize raw employee data for reliable reporting.
+   2. To remove duplicates, fix missing values and format fields properly.
 DATASET DESCRIPTION:
    The dataset contains employee information used to analyze salary details and performance of employee across the countries.
    Number of Records  : 150
@@ -19,16 +19,16 @@ COLUMN DESCRIPTION:
    GENDER             - Gender (Male/Female)
    EMAIL              - Official email ID of the employees
 KEY FEATURES:
-   - Data Cleaning & Preparation
-   - Handling Inconsistence Data.
-   - Descriptive Statistics.
-   - Pivot Table summarization
-   - Visualization and Dashboard building.
+   1. Data Cleaning & Preparation
+   2. Handling Inconsistence Data.
+   3. Descriptive Statistics.
+   4. Pivot Table summarization
+   5. Visualization and Dashboard building.
 TOOLS AND TECHNOLOGY USED:
-   - Microsoft Excel 365
-   - Toolpak
-   - Power Query
-   - Pivot Table and Charts
+   1. Microsoft Excel 365
+   2. Toolpak
+   3. Power Query
+   4. Pivot Table and Charts
 INSIGHTS ARRIVED:
    Descriptive analysis:
       - Highest employee strength is seen in Marketing,IT and Sales.
